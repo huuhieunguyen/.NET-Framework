@@ -1,0 +1,15 @@
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\TaiKhoan\bin\Debug\net6.0\TaiKhoan.exe
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\TaiKhoan\bin\Debug\net6.0\TaiKhoan.deps.json
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\TaiKhoan\bin\Debug\net6.0\TaiKhoan.runtimeconfig.json
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\TaiKhoan\bin\Debug\net6.0\TaiKhoan.dll
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\TaiKhoan\bin\Debug\net6.0\TaiKhoan.pdb
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\TaiKhoan\obj\Debug\net6.0\TaiKhoan.csproj.AssemblyReference.cache
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\TaiKhoan\obj\Debug\net6.0\TaiKhoan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\TaiKhoan\obj\Debug\net6.0\TaiKhoan.AssemblyInfoInputs.cache
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\TaiKhoan\obj\Debug\net6.0\TaiKhoan.AssemblyInfo.cs
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\TaiKhoan\obj\Debug\net6.0\TaiKhoan.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\TaiKhoan\obj\Debug\net6.0\TaiKhoan.dll
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\TaiKhoan\obj\Debug\net6.0\refint\TaiKhoan.dll
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\TaiKhoan\obj\Debug\net6.0\TaiKhoan.pdb
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\TaiKhoan\obj\Debug\net6.0\TaiKhoan.genruntimeconfig.cache
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\TaiKhoan\obj\Debug\net6.0\ref\TaiKhoan.dll

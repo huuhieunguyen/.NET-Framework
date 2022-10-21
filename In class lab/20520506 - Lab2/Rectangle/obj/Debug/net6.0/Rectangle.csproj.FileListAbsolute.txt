@@ -1,0 +1,15 @@
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Rectangle\obj\Debug\net6.0\Rectangle.csproj.AssemblyReference.cache
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Rectangle\obj\Debug\net6.0\Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Rectangle\obj\Debug\net6.0\Rectangle.AssemblyInfoInputs.cache
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Rectangle\obj\Debug\net6.0\Rectangle.AssemblyInfo.cs
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Rectangle\obj\Debug\net6.0\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Rectangle\bin\Debug\net6.0\Rectangle.exe
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Rectangle\bin\Debug\net6.0\Rectangle.deps.json
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Rectangle\bin\Debug\net6.0\Rectangle.runtimeconfig.json
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Rectangle\bin\Debug\net6.0\Rectangle.dll
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Rectangle\bin\Debug\net6.0\Rectangle.pdb
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Rectangle\obj\Debug\net6.0\Rectangle.dll
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Rectangle\obj\Debug\net6.0\refint\Rectangle.dll
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Rectangle\obj\Debug\net6.0\Rectangle.pdb
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Rectangle\obj\Debug\net6.0\Rectangle.genruntimeconfig.cache
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Rectangle\obj\Debug\net6.0\ref\Rectangle.dll

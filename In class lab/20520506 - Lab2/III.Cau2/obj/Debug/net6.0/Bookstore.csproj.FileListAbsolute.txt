@@ -1,0 +1,15 @@
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Bookstore\bin\Debug\net6.0\Bookstore.exe
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Bookstore\bin\Debug\net6.0\Bookstore.deps.json
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Bookstore\bin\Debug\net6.0\Bookstore.runtimeconfig.json
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Bookstore\bin\Debug\net6.0\Bookstore.dll
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Bookstore\bin\Debug\net6.0\Bookstore.pdb
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Bookstore\obj\Debug\net6.0\Bookstore.csproj.AssemblyReference.cache
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Bookstore\obj\Debug\net6.0\Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Bookstore\obj\Debug\net6.0\Bookstore.AssemblyInfoInputs.cache
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Bookstore\obj\Debug\net6.0\Bookstore.AssemblyInfo.cs
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Bookstore\obj\Debug\net6.0\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Bookstore\obj\Debug\net6.0\Bookstore.dll
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Bookstore\obj\Debug\net6.0\refint\Bookstore.dll
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Bookstore\obj\Debug\net6.0\Bookstore.pdb
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Bookstore\obj\Debug\net6.0\Bookstore.genruntimeconfig.cache
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\Bookstore\obj\Debug\net6.0\ref\Bookstore.dll

@@ -1,0 +1,15 @@
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\PersonManager\bin\Debug\net6.0\PersonManager.exe
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\PersonManager\bin\Debug\net6.0\PersonManager.deps.json
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\PersonManager\bin\Debug\net6.0\PersonManager.runtimeconfig.json
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\PersonManager\bin\Debug\net6.0\PersonManager.dll
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\PersonManager\bin\Debug\net6.0\PersonManager.pdb
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\PersonManager\obj\Debug\net6.0\PersonManager.csproj.AssemblyReference.cache
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\PersonManager\obj\Debug\net6.0\PersonManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\PersonManager\obj\Debug\net6.0\PersonManager.AssemblyInfoInputs.cache
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\PersonManager\obj\Debug\net6.0\PersonManager.AssemblyInfo.cs
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\PersonManager\obj\Debug\net6.0\PersonManager.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\PersonManager\obj\Debug\net6.0\PersonManager.dll
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\PersonManager\obj\Debug\net6.0\refint\PersonManager.dll
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\PersonManager\obj\Debug\net6.0\PersonManager.pdb
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\PersonManager\obj\Debug\net6.0\PersonManager.genruntimeconfig.cache
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\PersonManager\obj\Debug\net6.0\ref\PersonManager.dll

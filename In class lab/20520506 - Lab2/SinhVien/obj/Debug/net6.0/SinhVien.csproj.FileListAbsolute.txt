@@ -1,0 +1,15 @@
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\SinhVien\obj\Debug\net6.0\SinhVien.csproj.AssemblyReference.cache
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\SinhVien\obj\Debug\net6.0\SinhVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\SinhVien\obj\Debug\net6.0\SinhVien.AssemblyInfoInputs.cache
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\SinhVien\obj\Debug\net6.0\SinhVien.AssemblyInfo.cs
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\SinhVien\obj\Debug\net6.0\SinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\SinhVien\bin\Debug\net6.0\SinhVien.exe
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\SinhVien\bin\Debug\net6.0\SinhVien.deps.json
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\SinhVien\bin\Debug\net6.0\SinhVien.runtimeconfig.json
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\SinhVien\bin\Debug\net6.0\SinhVien.dll
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\SinhVien\bin\Debug\net6.0\SinhVien.pdb
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\SinhVien\obj\Debug\net6.0\SinhVien.dll
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\SinhVien\obj\Debug\net6.0\refint\SinhVien.dll
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\SinhVien\obj\Debug\net6.0\SinhVien.pdb
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\SinhVien\obj\Debug\net6.0\SinhVien.genruntimeconfig.cache
+C:\Users\Hieu Nguyen\Desktop\C#.Net\Lab\In class lab\20520506 - Lab2\SinhVien\obj\Debug\net6.0\ref\SinhVien.dll
